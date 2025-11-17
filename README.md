@@ -32,15 +32,17 @@ The primary goal is to transform raw sales data into actionable business intelli
 * **Trend Charts:** Displays "Monthly Sales Trend," "Monthly Box Volume Trend," and "Yearly Profit Trend" to help stakeholders visualize performance consistency and growth over time.
 * **Personnel Performance:** A detailed table ranks sales team members by their individual sales, expenses, and gross profit, linking individual efforts directly to profitability.
 
-![Busines Overview Snapshot]()
+![Busines Overview Snapshot](https://github.com/YashMastakar/excel-sales-performance-analysis/blob/main/choco_busin_performance_page1.png)
 
 #### **2: Product Sales Analysis** * **Top 5 Revenue Drivers:** A critical bar chart that visually ranks the top-selling products (e.g., 99% Dark & Pure, Choco Coated Almonds) by their absolute sales value, allowing for quick identification of market leaders.
 * **Interactive Filters:** Slicers are available on the right for filtering the entire view by `Category` (e.g., Bars, Drinks) and individual `Product` names for deeper analysis.
 
-![Sales Analysis Snapshot]()
+![Sales Analysis Snapshot](https://github.com/YashMastakar/excel-sales-performance-analysis/blob/main/choco_busin_performance_page2.png)
 
 ### 4. Business Impact & Insights
 
 * **Improved Profitability:** By linking sales personnel performance to expenses and profit, management can identify and scale the strategies of the most profitable sales agents, leading to optimized compensation and resource allocation.
 * **Enhanced Forecasting:** The detailed monthly and yearly trend charts allow the business to accurately forecast inventory needs and staffing levels, minimizing stockouts and waste.
 * **Product Strategy Focus:** The "Top 5 Revenue Drivers" page instantly reveals which products are the financial pillars of the company. This insight allows marketing and production teams to focus their efforts and investments on the high-performing items, maximizing ROI.
+
+ Here is the Link to my Excel dashboard - [Link](https://github.com/YashMastakar/excel-sales-performance-analysis/blob/main/Chocobars_Business_Performance_Dashboard.xlsx)
